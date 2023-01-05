@@ -1,4 +1,34 @@
 .column {
-  width:200px;
+  width:25%;
   float:left;
+}
+
+.header {
+  color: pink;
+  font-family:sans-serif;
+  text-align: center;
+}
+
+
+img {
+  width:190px;
+  height:180px;
+  margin:0 auto;
+  display:block;
+}
+
+.profile1 p {
+  font-family:sans-serif;
+}
+
+.profile2 p {
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.profile3 p {
+  font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.profile4 p {
+  font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
